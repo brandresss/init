@@ -1,0 +1,2 @@
+we have to use the command "whois"
+whois slash16.org | grep 'Name Server:' | awk '{print $3}'
