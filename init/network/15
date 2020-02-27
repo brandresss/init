@@ -1,4 +1,4 @@
 To make the intra.42.fr address reroute to 46.19.122.85 a new line need to be
 added in `hosts` file by root user as below.
-echo 'intra.42.fr 46.19.122.85' >> /etc/hosts??????
+echo '46.19.122.85 intra.42.fr' >> /etc/hosts??????
 no rights

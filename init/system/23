@@ -1,0 +1,2 @@
+if graphical, put your login and password when asked
+if ssh : ssh <user>@<ip> then put password when asked
